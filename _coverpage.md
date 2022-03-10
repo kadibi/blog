@@ -7,4 +7,4 @@
 - 主题丰富
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[快速上手](/快速上手/开始)
+[快速上手](README.md)
