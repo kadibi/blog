@@ -1,4 +1,4 @@
-# docsify 中文文档 <small>1.0</small>
+# 氢化铝李的博客 <small>21.0</small>
 
 > 快速文档生成器
 
@@ -6,5 +6,5 @@
 - 无需静态构建
 - 主题丰富
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[快速上手](README.md)
+[GitHub](https://github.com/kadibi/lhyblog)
+[开始](README.md)
