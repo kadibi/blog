@@ -43,4 +43,4 @@ this.$router.push({name:“路由名字”,params:{传参},query:{传参})。
 // 以对象方式传参时，如果我们传参中使用了params，只能使用name，不能使用path，如果只是使用query传参，可以使用path  
 ```
 ### 查询参数query
-？后面的参数,
+？后面的参数
